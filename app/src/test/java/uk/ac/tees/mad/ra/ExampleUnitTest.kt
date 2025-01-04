@@ -1,4 +1,4 @@
-package uk.ac.tees.mad.recipeapp
+package uk.ac.tees.mad.ra
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package uk.ac.tees.mad.recipeapp.ui.theme
+package uk.ac.tees.mad.ra.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
